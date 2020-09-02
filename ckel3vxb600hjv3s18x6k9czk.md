@@ -1,4 +1,4 @@
-## Executing functions in node.js from CLI
+## Executing functions in node.js via CLI
 
 Sometimes you just want to execute a particular function in an existing node.js backend, instead of making whole network requests to run that function you can run it using your CLI.
 
