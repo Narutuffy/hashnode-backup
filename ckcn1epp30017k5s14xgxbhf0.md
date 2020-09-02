@@ -15,3 +15,9 @@ Chrome will save this as a variable `temp1`, which you can access from the conso
 Now, run the command `copy(temp1)`. This will copy the whole object to your clipboard.
 
 PS: You can use "Store as global variable" for the logged objects in your console too.
+
+<hr/>
+
+
+>This post is part of the series [Bytes](https://hashnode.com/series/bytes-ckckqh5km0000mks1fghg1rc5).
+ Feel free to share some nifty tricks you use in your day-to-day in the comments. You can also @ me on [twitter](https://twitter.com/vamsirao7)
