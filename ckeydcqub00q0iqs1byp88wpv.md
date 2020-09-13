@@ -1,4 +1,4 @@
-## What is Cache and Why do Devs Have a Love-Hate Relationship With It?
+## What is Cache and Why do New Devs Struggle With It?
 
 Let me set the context with this quote
 >There are only two hard things in Computer Science: cache invalidation and naming things.
@@ -56,8 +56,7 @@ In the previous section, we discussed about CDN and how it was the intermediary 
 Each of these systems provide their own methods to invalidate the cache. Refer to their docs to learn more.
 
 ---
-Now coming to the question why do devs have a love-hate relationship with the cache. Generally, the modern stacks utilize the combination of these three caches.
-What devs sometimes stuck are at debugging. Imagine you have made some changes to your website but it is not reflecting the latest changes, assuming there is nothing wrong with the code, the culprit could be any of these three. 
+Now coming to the question of why do new devs struggle with it. Generally, the modern stacks utilize the combination of these three caches. What devs sometimes stuck are at debugging. Imagine you have made some changes to your website but it is not reflecting the latest changes, assuming there is nothing wrong with the code, the culprit could be any of these three. 
 That's relatively a small downside (not even a downside if you are aware of it) compared to the huge upside it gives with scalability, less response time, and overall a better user experience.
 
 >Hope you enjoyed the article. Let me know your thoughts in the comments below or you can @ me on [twitter](https://twitter.com/vamsirao7)
