@@ -12,3 +12,7 @@ node index.js | jq
 ```
 Which will output this beautiful JSON ✨ that we wanted in the first place.
 ![Screenshot 2020-09-15 at 5.00.08 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1600169388616/YhMR4ydoc.png)
+
+<hr/>
+
+>Hope you found the article useful. Let me know your thoughts in the comments below or you can @ me on [twitter](https://twitter.com/@VamsiRao7)
