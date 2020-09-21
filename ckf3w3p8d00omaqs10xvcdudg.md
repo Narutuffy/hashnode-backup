@@ -13,6 +13,12 @@ node index.js | jq
 Which will output this beautiful JSON ✨ that we wanted in the first place.
 ![Screenshot 2020-09-15 at 5.00.08 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1600169388616/YhMR4ydoc.png)
 
+Sometimes the output isn't always just stringified JSON, there can also be other logs and errors in some cases. For jq to function properly it needs to ignore those logs. You can ignore it by using
+
+```
+ node index.js | jq -R 'fromjson? | select(type == "object")'
+```
+
 <hr/>
 
 >Hope you found the article useful. Let me know your thoughts in the comments below or you can @ me on [twitter](https://twitter.com/@VamsiRao7)
