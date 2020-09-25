@@ -56,7 +56,7 @@ In the previous section, we discussed about CDN and how it was the intermediary 
 Each of these systems provide their own methods to invalidate the cache. Refer to their docs to learn more.
 
 ---
-Now coming to the question of why do new devs struggle with it. Generally, the modern stacks utilize the combination of these three caches. What devs sometimes stuck are at debugging. Imagine you have made some changes to your website but it is not reflecting the latest changes, assuming there is nothing wrong with the code, the culprit could be any of these three. 
+Now coming to the question of why do new devs struggle with it (including me in the early days). Generally, the modern stacks utilize the combination of these three caches. What devs sometimes stuck are at debugging. Imagine you have made some changes to your website but it is not reflecting the latest changes, assuming there is nothing wrong with the code, the culprit could be any of these three. 
 That's relatively a small downside (not even a downside if you are aware of it) compared to the huge upside it gives with scalability, less response time, and overall a better user experience.
 
 >Hope you enjoyed the article. Let me know your thoughts in the comments below or you can @ me on [twitter](https://twitter.com/vamsirao7)
