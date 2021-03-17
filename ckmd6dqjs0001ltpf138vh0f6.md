@@ -163,7 +163,7 @@ As always, any questions or suggestions, please feel free to leave a response or
 
 *   [Exports as tasks](https://github.com/gulpjs/gulp/blob/master/docs/recipes/exports-as-tasks.md) — Gulp on Github
 *   [Custom task metadata ](https://medium.com/gulpjs/gulp-sips-custom-task-metadata-9a2dc80ac7b1)— Gulp on Medium
-
+```
     import gulp from 'gulp'
     
     const compileMarkup = () => { // COMPILE MARKUP }
@@ -201,3 +201,4 @@ As always, any questions or suggestions, please feel free to leave a response or
     }
     
     export default defaultTasks
+```
