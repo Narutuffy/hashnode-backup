@@ -3,7 +3,7 @@
 Let me set the context with this quote
 >There are only two hard things in Computer Science: cache invalidation and naming things.
 >
->~ Phil Karlton
+> ~ Phil Karlton
 
 Before we start talking about Cache Invalidation, let's see what cache actually is. Wikipedia says cache (pronounced as "Cash") is simply a component that saves data so that future requests for that data can be served faster.
 
