@@ -1,0 +1,25 @@
+## Don't be too fixated on the problem either
+
+![Don't be too fixated on the problem either](https://cdn.hashnode.com/res/hashnode/image-dev/upload/v1624622806607/0e3Px4gdg.jpeg)
+
+Don't be too fixated on the idea and focus on the problem is the general suggestion we've all heard but I've realized that we shouldn't be too fixated on the problem either. Here's why.
+
+Let's say you found a problem you want to solve and later create a business around it. The good thing about this approach is, it is solving a problem for at-least one person, ie, you. But the questionable part is, are enough people facing the same problem? Even if they do, are they willing to give their hard-earned money to solve this problem? Only if it is a high priority problem but then how will you get to know the priority number of the problem you are solving for? By asking the right questions to the target user base.
+
+While asking questions you might realize that the problem you are solving isn't actually important and there are far more annoying problems that your target user base is facing. But because you have asked the questions you can climb up the problem priority ladder and create a far more valuable business.
+
+![Don't be too fixated on the problem either](https://cdn.hashnode.com/res/hashnode/image-dev/upload/v1624622810057/o1J3yteIG.png)
+
+Problem Priority Ladder
+
+So you can view the initial idea-problem pair as a gateway to a gem mine (for that particular niche) and asking questions can better your understanding and lead you to a more valuable gem.
+
+![Don't be too fixated on the problem either](https://cdn.hashnode.com/res/hashnode/image-dev/upload/v1624622814065/JyYpxa4YK.png)
+
+Problem Gem Mine
+
+* * *
+
+To summarise, be open to move to a more valuable problem vertically and not be too fixated on the problem only because you've faced it personally.
+
+Sources: [IH Podcast on Mom test](https://www.indiehackers.com/podcast/154-rob-fitzpatrick-of-the-mom-test)
