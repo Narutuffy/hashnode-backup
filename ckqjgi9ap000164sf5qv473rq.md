@@ -1,5 +1,7 @@
 ## My RN Preview RSS
 
+![Alt text of image](https://res.cloudinary.com/practicaldev/image/fetch/s--QsdptG49--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k34n580fjmhbil513xo6.png)
+
 Hello everyone, We are back with some React Native Animation, and this time we are building **Tinder Cards using Hooks**. We will build a deck of cards featuring cute animals where you can swipe left or right. And finally, we will decouple the whole logic into a reusable hook. Let's start 🚀
 
 ## Concept
