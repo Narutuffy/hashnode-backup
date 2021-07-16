@@ -1,0 +1,12 @@
+## I can’t feel any change, should I carry on?
+
+
+Sometimes it is difficult to carry on with your dreams when you can’t see any visible changes, even after you’ve put in so much of your effort, you’ve bled for it, you’ve given up sleep, your comfort but you still can’t feel the change but I’m here to tell you that it is alright, it most definitely is. The way I see it, it is a bit in the perspective of Physics, you can’t observe the change because your relative velocity with the change is zero, much like when the other car appears to be at rest when you look at the car having the same velocity. A simple example would be relatives telling you that you look very different since the last time they’ve seen you but you feel that you didn’t change at all, as a matter of fact, you did, you just can’t observe it because you can’t feel the negligible change happening every day.These negligible change is what adds up to a huge amount.
+
+![The image shows how these negligible improvements everyday actually adds up to a huge amount.](https://cdn.hashnode.com/res/hashnode/image-dev/upload/v1626430087784/_l00pi0oe.png)*The image shows how these negligible improvements everyday actually adds up to a huge amount.*
+
+And this is what is happening with you, me and everyone who are learning everyday. Having said that, I’m also here to tell you that you can’t give 101% everyday, not even 20% to tell the truth (on a bad day). Because we’re not robots programmed to give our best until we expire, we’re emotional beings, we are not at our best everyday and that is **OKAY**. That doesn’t mean that you’re starting to give up on your dreams, it is just a phase and it will pass. You just have to believe in yourself who first started the journey, who made the decision to pursue it no matter what it takes.
+
+So carry on with what you’re doing, change is very much real and happening .Trust in your dreams,intuitions and most importantly believe in yourself, the person who first started the journey with great motivation and zeal to learn new things. Enjoy the journey rather than keeping your eyes on the destination and everything will be alright, if it is not then don’t give up just yet, hang on, you’ll be there, I’ll be there.
+
+PS: I am no Steve Jobs, I also am a struggling person just like you, trying to overcome obstacles day by day, slowly but definitely believing that I’ll be there someday.
