@@ -1,4 +1,4 @@
-## Make Your Logged JSON Readable
+## How to make your logged JSON readable?
 
 I am tired of logging JSON and seeing `[Object]` or `[Array]` on my terminal.
 ![Screenshot 2020-09-15 at 4.46.12 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1600168720811/oul9aQXsK.png)
