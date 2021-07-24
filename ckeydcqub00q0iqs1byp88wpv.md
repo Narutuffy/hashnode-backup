@@ -1,4 +1,4 @@
-## What is Cache and Why do New Devs Struggle With It?
+## What is and common ways of using it?
 
 Let me set the context with this quote
 >There are only two hard things in Computer Science: cache invalidation and naming things.
