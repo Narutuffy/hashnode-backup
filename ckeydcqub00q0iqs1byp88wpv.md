@@ -1,4 +1,4 @@
-## What is and common ways of using it?
+## What is cache and common ways of using it?
 
 Let me set the context with this quote
 >There are only two hard things in Computer Science: cache invalidation and naming things.
