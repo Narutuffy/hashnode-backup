@@ -4,7 +4,7 @@ MongoDB provides a nifty way to test your aggregation pipeline before writing a 
 
 Go to the collection you want to try it on &gt; Click on `Aggregation` &gt; Now add the stages you want to try
 
-Let's take an example of getting Pinterest boards of users who have successfully onboarded using aggregate using different stages:
+Let's take an example of getting Pinterest boards of users who have successfully onboarded using different stages:
 
 1.  Stage 1: Get boards that are active (not deleted) using `$match`
     
@@ -29,7 +29,7 @@ After you are done with your query, you can easily export the pipeline you creat
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671259682133/KKZMPWcWJ.png align="center")
 
-Here's how the final pipeline looks like:
+Here's what the final pipeline looks like:
 
 ```typescript
 [
