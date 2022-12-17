@@ -20,10 +20,10 @@ Let's take an example of getting Pinterest boards of users who have successfully
 
 *As you can see, with each stage we can see the resulting output. This helps a lot to tweak your query according to your need.*
 
-4.  Finally, use the `$match` query to add check for `onboardingDone` field
+4.  Finally, use the `$match` query to add a check for `onboardingDone` field
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671259613794/NkV6C8gOr.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671260372296/skBxIZWR9.png align="center")
 
 After you are done with your query, you can easily export the pipeline you created using the export option
 
