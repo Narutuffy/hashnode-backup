@@ -1,4 +1,13 @@
-## Clearing Cookie in Next.js
+---
+title: "Clearing Cookie in Next.js"
+seoTitle: "Clearing Cookie in Next.js from Server Side"
+datePublished: Thu Feb 03 2022 10:47:53 GMT+0000 (Coordinated Universal Time)
+cuid: ckz6uuiux00000ynvg14u5jjz
+slug: clearing-cookie-in-nextjs
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/eSFEvmcIu2w/upload/v1643877018230/Y05xuutiR.jpeg
+tags: nodejs, nextjs
+
+---
 
 Like any other header, a cookie is also a header that web apps use to store essential information. If you want to clear a cookie from server-side in Next.js (which uses node.js under the hood) you can simply use response's `setHeader` method like so:
 
