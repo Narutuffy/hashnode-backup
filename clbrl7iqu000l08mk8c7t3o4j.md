@@ -1,4 +1,12 @@
-# Efficient Aggregate Pipeline Testing in MongoDB
+---
+title: "Efficient Aggregate Pipeline Testing in MongoDB"
+datePublished: Sat Dec 17 2022 06:57:41 GMT+0000 (Coordinated Universal Time)
+cuid: clbrl7iqu000l08mk8c7t3o4j
+slug: efficient-aggregate-pipeline-testing-in-mongodb
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1671260190195/b0UQB1IjU.jpeg
+tags: mongodb
+
+---
 
 MongoDB provides a nifty way to test your aggregation pipeline before writing a single line of code from their UI. I use MongoDB Compass for this but you can also try this from the MongoDB Atlas UI.
 
