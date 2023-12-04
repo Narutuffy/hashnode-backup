@@ -1,4 +1,12 @@
-## Another Way to Render SVGs in React
+---
+title: "Another Way to Render SVGs in React"
+datePublished: Wed Sep 09 2020 18:30:00 GMT+0000 (Coordinated Universal Time)
+cuid: ckevfqjxg00s5n1s1drwn4v9n
+slug: another-way-to-render-svgs-in-react
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/Im7lZjxeLhg/upload/v1643962755633/rnmlwy0Qg.jpeg
+tags: reactjs, svg, 2articles1week
+
+---
 
 I recently came across an interesting pattern to render SVGs in an open-sourced project, so thought of sharing it. Instead of creating one file each for SVG, you construct an object with all your SVGs and export it like below
 
