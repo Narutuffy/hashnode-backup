@@ -1,4 +1,12 @@
-# What is cache and common ways of using it?
+---
+title: "What is cache and common ways of using it?"
+datePublished: Fri Sep 11 2020 15:01:53 GMT+0000 (Coordinated Universal Time)
+cuid: ckeydcqub00q0iqs1byp88wpv
+slug: what-is-cache-and-common-ways-of-using-it
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1627102394036/XWvPyCJzJ.jpeg
+tags: programming, full-stack, caching, 2articles1week
+
+---
 
 Let me set the context with this quote
 >There are only two hard things in Computer Science: cache invalidation and naming things.
