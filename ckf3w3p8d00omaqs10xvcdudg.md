@@ -1,4 +1,12 @@
-## How to make your logged JSON readable?
+---
+title: "How to make your logged JSON readable?"
+datePublished: Tue Sep 15 2020 11:45:35 GMT+0000 (Coordinated Universal Time)
+cuid: ckf3w3p8d00omaqs10xvcdudg
+slug: how-to-make-your-logged-json-readable
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1627102672219/sgE91I5tn.jpeg
+tags: javascript, json, web-development, debugging, 2articles1week
+
+---
 
 I am tired of logging JSON and seeing `[Object]` or `[Array]` on my terminal.
 ![Screenshot 2020-09-15 at 4.46.12 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1600168720811/oul9aQXsK.png)
