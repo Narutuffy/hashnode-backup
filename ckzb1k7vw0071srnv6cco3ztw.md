@@ -1,4 +1,11 @@
-# Serving a dynamic HTML template page in Next.js
+---
+title: "Serving a dynamic HTML template page in Next.js"
+datePublished: Sun Feb 06 2022 09:06:54 GMT+0000 (Coordinated Universal Time)
+cuid: ckzb1k7vw0071srnv6cco3ztw
+slug: serving-a-dynamic-html-template-page-in-nextjs
+tags: html5, nextjs
+
+---
 
 A lot of times, you don't want to port the HTML code you have to react and want to serve it directly. If it is a static page, you can just place this file in `public` dir and Next.js will take care of serving it. But if you want to change it according to some params and serve it on a different path, then you have to tweak it a bit. For this, we'll use 
 - `Next Rewrites`, used to proxy routes in Next.js
