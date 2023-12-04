@@ -1,4 +1,12 @@
-## Faster Debugging with Chrome Dev Tools
+---
+title: "Faster Debugging with Chrome Dev Tools"
+datePublished: Wed Jul 15 2020 07:22:38 GMT+0000 (Coordinated Universal Time)
+cuid: ckcn1epp30017k5s14xgxbhf0
+slug: faster-debugging-with-chrome-dev-tools
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1594797600513/xGqEqQYvp.jpeg
+tags: programming, chrome, debugging, 2articles1week
+
+---
 
 A lot of times you want to look at request objects and response objects of an API a bit more extensively and with a lot more freedom than what your browser allows. For this, I use this neat shortcut to copy the JSON to my editor.
 
