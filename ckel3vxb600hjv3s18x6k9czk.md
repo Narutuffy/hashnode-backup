@@ -1,4 +1,12 @@
-## Executing functions in node.js via CLI
+---
+title: "Executing functions in node.js via CLI"
+datePublished: Wed Sep 02 2020 08:15:52 GMT+0000 (Coordinated Universal Time)
+cuid: ckel3vxb600hjv3s18x6k9czk
+slug: executing-functions-in-nodejs-via-cli
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1599034678448/rGZJeasvJ.jpeg
+tags: nodejs, debugging, 2articles1week
+
+---
 
 Sometimes you just want to execute a particular function in an existing node.js backend, instead of making whole network requests to run that function you can run it using your CLI.
 
