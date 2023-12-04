@@ -1,4 +1,12 @@
-## VS Code extensions I use to be more productive
+---
+title: "VS Code extensions I use to be more productive"
+datePublished: Thu Sep 03 2020 18:23:35 GMT+0000 (Coordinated Universal Time)
+cuid: cken51b7i00enefs1dfro22r2
+slug: vs-code-extensions
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1599156332456/7WwIJcqD0.jpeg
+tags: programming, extension, vscode, 2articles1week
+
+---
 
 We all use some VS Code extensions for our day to day development and are always on a hunt for more useful extensions. Here is a list of mine and how I use them:
 
