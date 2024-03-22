@@ -2,7 +2,7 @@
 title: "Notes on Driving"
 datePublished: Sat Jul 16 2022 06:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clu2ukur6000108l62oehhagu
-slug: notes-on-driving
+slug: driving-notes
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/SwLPmCYo-QM/upload/645c26f344bc46faf8a683dfab02ca13.jpeg
 tags: personal
 
